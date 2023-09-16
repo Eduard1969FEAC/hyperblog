@@ -2,3 +2,9 @@ Hola buenos días
 Me llamos Francis Eduard Arevalo Casallas
 Ingeniero de sistemas
 Especialista en Desarrollo de Bases de datos 
+
+Es un digno representante de la Ingeniería del software, siendo experto en Python
+desde luego sin olvidar su paso por diferentes lenguajes y hoy día es un señior en 
+
+Machine learning, analista de datos con herramientas de punta como lo son 
+power bi, R, y tableau
