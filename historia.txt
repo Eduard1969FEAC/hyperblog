@@ -8,3 +8,5 @@ desde luego sin olvidar su paso por diferentes lenguajes y hoy día es un señio
 
 Machine learning, analista de datos con herramientas de punta como lo son 
 power bi, R, y tableau
+
+Hoy estaremos hablando de html y css para generar estilos
