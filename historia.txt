@@ -10,3 +10,6 @@ Machine learning, analista de datos con herramientas de punta como lo son
 power bi, R, y tableau
 
 Hoy estaremos hablando de html y css para generar estilos
+
+para ello se esta realizando el curso de git con Platzi..
+
